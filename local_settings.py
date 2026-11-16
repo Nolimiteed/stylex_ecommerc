@@ -1,0 +1,6 @@
+secret_key = "stylex-local-development-only"
+hash_key = "stylex-local-hash-salt"
+superuser_name = "admin"
+superuser_password = "admin123"
+email_user = ""
+email_password = ""
